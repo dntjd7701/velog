@@ -2,4 +2,4 @@
 velog.io 내용 정리 
 
 
-[NEXT]([https://velog.io/@dntjd7701/Promise.all-allSettled-%EA%B3%BC-asyncawait](https://velog.io/@dntjd7701/SQLStored-Proceduere))
+[NEXT](https://velog.io/@dntjd7701/SQLStored-Proceduere)
