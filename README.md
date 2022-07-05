@@ -2,7 +2,6 @@
 velog.io 내용 정리 
 
 
-[NEXT](https://velog.io/@dntjd7701/PropTypes)
 
 
 [NEXT](https://velog.io/@dntjd7701/React-Immutability%EB%B6%88%EB%B3%80%EC%84%B1-of-Components-State)
