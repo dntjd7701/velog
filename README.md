@@ -1,10 +1,7 @@
 # velog
 velog.io 내용 정리 
 
-
-
-
-[NEXT](https://velog.io/@dntjd7701/React-Immutability%EB%B6%88%EB%B3%80%EC%84%B1-of-Components-State)
+)
 
 [NEXT](https://velog.io/@dntjd7701/React-Context-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-React.createContext)
 
