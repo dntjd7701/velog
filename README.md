@@ -2,7 +2,6 @@
 velog.io 내용 정리 
 
 
-[NEXT](https://velog.io/@dntjd7701/React-State)
 
 [NEXT](https://velog.io/@dntjd7701/React-Event-State-1)
 
